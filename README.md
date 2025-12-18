@@ -1,6 +1,6 @@
 ## Hola 👋
 
-Soy Óscar Renilla estudiante de Desarrollo de Aplicaciones Multiplataforma en Prometeo 
+Soy Óscar Renilla estudiante de Desarrollo de Aplicaciones Multiplataforma y del master de ciberseguridad en Prometeo 
 
 ## 📌 Repositorios destacados
 - **[Proyecto-1-HTML-CSS](https://github.com/OscarRenilla/Proyecto-1-HTML-CSS.git)** — HTML y CSS 
@@ -9,6 +9,15 @@ Soy Óscar Renilla estudiante de Desarrollo de Aplicaciones Multiplataforma en P
 
 ## 🛠 Conocimientos 
 HTML · CSS · JavaScript · Java · PostgreSQL 
+
+Aprendiendo: 
+- 📙| HTML
+- 📘| CSS
+- 📒| JavaScript
+- ☕| Java
+- 🦖|Python
+- 🍿| SQL
+- 📦| NoSQL
 
 ## 🎓 Formación Profesional
 Alumno de DAM y Master Ciberseguridad 
