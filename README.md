@@ -15,7 +15,7 @@ Aprendiendo:
 - 📘| CSS
 - 📒| JavaScript
 - ☕| Java
-- 🦖|Python
+- 🐍|Python
 - 🍿| SQL
 - 📦| NoSQL
 
