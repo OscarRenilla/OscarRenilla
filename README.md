@@ -1,6 +1,6 @@
 ## Hola 👋
 
-Soy Óscar Renilla estudiante de Desarrollo de Aplicaciones Multiplataforma y del master de ciberseguridad en Prometeo 
+Soy Óscar Renilla estudiante de Desarrollo de Aplicaciones Multiplataforma y del máster de Ciberseguridad en Prometeo by The Power
 
 ## 📌 Repositorios destacados
 - **[Proyecto-1-HTML-CSS](https://github.com/OscarRenilla/Proyecto-1-HTML-CSS.git)** — HTML y CSS 
