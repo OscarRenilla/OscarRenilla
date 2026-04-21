@@ -8,7 +8,8 @@ Soy Óscar Renilla estudiante de Desarrollo de Aplicaciones Multiplataforma y de
 - **[proyecto3-KatasPython](https://github.com/OscarRenilla/proyecto3-KatasPython.git)** — Python
 - **[proyecto4-SQL](https://github.com/OscarRenilla/proyecto4-SQL.git)** — SQL
 - **[proyecto5-noSQL](https://github.com/OscarRenilla/proyecto5-noSQL.git)** — JavaScript, Json y MongoDB 
-- **[ProyectFail](https://github.com/OscarRenilla/ProyectFail.git)** — Java 
+- **[Cronoss](https://github.com/OscarRenilla/Proyecto_Intermodular_DAM1.git)** — HTML, CSS, JavaScript, Java, Junit, Json, SQL
+- **[ProyectFail](https://github.com/OscarRenilla/ProyectFail.git)** — Java
 
 ## 🛠 Conocimientos 
 HTML · CSS · JavaScript · Java · PostgreSQL 
