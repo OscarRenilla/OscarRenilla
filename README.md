@@ -1,6 +1,6 @@
 ## Hola 👋
 
-Soy Óscar Renilla estudiante de Desarrollo de Aplicaciones Multiplataforma y del máster de Ciberseguridad en <span style="color: #1b8500">Prometeo by The Power</span>
+Soy Óscar Renilla estudiante de Desarrollo de Aplicaciones Multiplataforma y del máster de Ciberseguridad en Prometeo by The Power.
 
 ---
 
