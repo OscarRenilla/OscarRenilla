@@ -2,7 +2,9 @@
 
 <p align="center">
   <b>Desarrollador de Aplicaciones Multiplataforma · Apasionado de la Ciberseguridad</b><br/>
-  <i>Construyendo software seguro, moderno y funcional</i>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&pause=1000&color=8D8D8D&center=true&width=500&lines=Construyendo+software+seguro%2C+moderno+y+funcional;Dise%C3%B1ando+arquitecturas+seguras+en+la+nube+%28AWS%29;Implementando+seguridad+desde+la+primera+l%C3%ADnea+de+c%C3%B3digo;Llevando+ideas+a+la+pantalla+de+tu+m%C3%B3vil;De+la+l%C3%B3gica+del+backend+a+la+interfaz+del+usuario;Resolviendo+problemas+complejos+con+soluciones+simples;Aprendizaje+continuo+en+el+ecosistema+tecnol%C3%B3gico" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
