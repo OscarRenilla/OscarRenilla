@@ -1,8 +1,6 @@
-<h1 align="center">👋 Hola, soy Óscar Renilla</h1>
-
-<p align="center">
-  <b>Desarrollador de Aplicaciones Multiplataforma · Apasionado de la Ciberseguridad</b>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1300E3,100:003300&height=300&section=header&text=👋Hola,%20soy%20Óscar%20Renilla&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Desarrollador%20de%20Aplicaciones%20Multiplataforma%20%7C%20Cybersecurity%20Enthusiast&descAlignY=75&descAlign=60" width="100%"/>
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
