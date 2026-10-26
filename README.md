@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Linea de separacion (br)">
 
 ---
 
@@ -169,10 +169,16 @@
   <img src="https://streak-stats.demolab.com?user=OscarRenilla&theme=tokyonight&hide_border=true"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Linea de separacion (br)">
 
 ---
 
 <p align="center">
   <i>✉️ ¿Tienes algún proyecto en mente o quieres colaborar? ¡Escríbeme!</i>
+  <p align="center">
+    
+  <img src="https://hits.sh/github.com/OscarRenilla/OscarRenilla.svg?label=Visitas%20al%20perfil&color=1300E3&labelColor=0D1117" alt="Contador de Visitas"/>
+  <img src="https://img.shields.io/badge/Estado-Abierto_a_Prácticas-00FF00?style=flat&labelColor=0D1117&color=1300E3" alt="Estado: Abierto a Prácticas"/>
+    
+</p>
 </p>
