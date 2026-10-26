@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/🌐 Portfolio-oscar--renilla.vercel.app-4F46E5?style=for-the-badge"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/oscar-renilla" target="_blank">
+  <a href="https://www.linkedin.com/in/%C3%B3scar-renilla-rodr%C3%ADguez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-OscarRenilla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -110,6 +110,13 @@
 > Aplicación de mensajería web con backend en Spring Boot.
 
 `HTML` `CSS` `JavaScript` `Java` `Spring Boot`
+
+---
+
+### 🛠️ [AutoTaller](https://github.com/OscarRenilla/crm-Taller.git)
+> Proyecto aplicación CRM de un taller mecánico. 
+
+`Python` `HTML` `Others` 
 
 ---
 
