@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/🌐 Portfolio-oscar--renilla.vercel.app-4F46E5?style=for-the-badge"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/%C3%B3scar-renilla-rodr%C3%ADguez/?isSelfProfile=true" target="_blank">
+  <a href="https://www.linkedin.com/in/%C3%B3scar-renilla-rodr%C3%ADguez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-OscarRenilla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
