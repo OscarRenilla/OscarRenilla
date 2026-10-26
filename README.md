@@ -1,9 +1,12 @@
 <h1 align="center">👋 Hola, soy Óscar Renilla</h1>
 
 <p align="center">
-  <b>Desarrollador de Aplicaciones Multiplataforma · Apasionado de la Ciberseguridad</b><br/>
+  <b>Desarrollador de Aplicaciones Multiplataforma · Apasionado de la Ciberseguridad</b>
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&pause=1000&color=8D8D8D&center=true&width=500&lines=Construyendo+software+seguro%2C+moderno+y+funcional;Dise%C3%B1ando+arquitecturas+seguras+en+la+nube+%28AWS%29;Implementando+seguridad+desde+la+primera+l%C3%ADnea+de+c%C3%B3digo;Llevando+ideas+a+la+pantalla+de+tu+m%C3%B3vil;De+la+l%C3%B3gica+del+backend+a+la+interfaz+del+usuario;Resolviendo+problemas+complejos+con+soluciones+simples;Aprendizaje+continuo+en+el+ecosistema+tecnol%C3%B3gico" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&pause=1000&color=8D8D8D&center=true&vCenter=true&width=700&lines=root%40oscar:~%23+Dise%C3%B1ando+arquitecturas+seguras+en+la+nube+%28AWS%29;root%40oscar:~%23+Implementando+seguridad+desde+la+primera+l%C3%ADnea+de+c%C3%B3digo;root%40oscar:~%23+Llevando+ideas+a+la+pantalla+de+tu+m%C3%B3vil;root%40oscar:~%23+De+la+l%C3%B3gica+del+backend+a+la+interfaz+del+usuario;root%40oscar:~%23+Resolviendo+problemas+complejos+con+soluciones+simples;root%40oscar:~%23+Aprendizaje+continuo+en+el+ecosistema+tecnol%C3%B3gico" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,16 +15,16 @@
     <img src="https://img.shields.io/badge/🌐 Portfolio-oscar--renilla.vercel.app-4F46E5?style=for-the-badge"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/%C3%B3scar-renilla-rodr%C3%ADguez" target="_blank">
+  <a href="https://www.linkedin.com/in/oscar-renilla" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-OscarRenilla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🕵️‍♂️ `> whoami`
 
-- 🎓 Estudiante de **2º de DAM** (Desarrollo de Aplicaciones Multiplataforma) 
+- 🎓 Estudiante de **2º de DAM** (Desarrollo de Aplicaciones Multiplataforma)
 - 🔐 Cursando el **Máster en Ciberseguridad** en Prometeo by The Power
 - 📱 Aprendiendo **desarrollo Android nativo** con Kotlin y Unity (C#)
 - ☁️ Familiarizándome con **AWS** (EC2, RDS, S3) y arquitecturas en la nube
@@ -30,42 +33,42 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 💻 `> ls -la /stack_tecnológico`
 
-### Lenguajes
+### ⚙️ `./lenguajes`
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+  <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=239120"/>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 </p>
 
-### Frameworks y Herramientas
+### 🛠️ `./frameworks_y_herramientas`
 <p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+  <img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=3DDC84"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
 </p>
 
-### Bases de Datos y Cloud
+### 🗄️ `./bases_de_datos_y_cloud`
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 </p>
 
----
 
-## 🚀 Proyectos Destacados
+## 🚀 `> ./ejecutar_proyectosDestacados.sh`
 
-### 🛡️ Zero-Vault *(TFG — En desarrollo)*
+### 🛡️ Zero-Vault _(TFG — En desarrollo)_
+
 > Gestor de contraseñas multiplataforma con arquitectura **Zero-Knowledge** — El servidor nunca puede descifrar tus datos.
 
 - **App Android** (Kotlin) con desbloqueo **biométrico** y cifrado **AES-256-GCM**
@@ -77,7 +80,8 @@
 
 ---
 
-### 🎮 Endless Runner 2D *(PMDM + DI — En desarrollo)*
+### 🎮 Endless Runner 2D _(PMDM + DI — En desarrollo)_
+
 > Videojuego tipo Subway Surfers desarrollado en **Unity** para Android.
 
 - Controles táctiles (tap, swipe) · Fondo **Parallax** · Generación procedural de obstáculos
@@ -88,6 +92,7 @@
 ---
 
 ### 🕐 [Cronoss](https://github.com/OscarRenilla/Proyecto_Intermodular_DAM1)
+
 > Proyecto intermodular de 1º DAM — Aplicación web full-stack de Galería de relojes de lujo.
 
 `HTML` `CSS` `JavaScript` `Java` `Spring Boot` `SQL` `JUnit`
@@ -95,27 +100,23 @@
 ---
 
 ### ☕ [ProyectFail](https://github.com/OscarRenilla/ProyectFail.git)
+
 > Proyecto de 1º DAM — Corrección y optimización de código.
 
-`Java` 
+`Java`
 
 ---
 
 ### 💬 [WhatsUp](https://github.com/OscarRenilla/WhatsUp)
+
 > Aplicación de mensajería web con backend en Spring Boot.
 
 `HTML` `CSS` `JavaScript` `Java` `Spring Boot`
 
 ---
 
-### 🛠️ [AutoTaller](https://github.com/OscarRenilla/crm-Taller.git)
-> Proyecto aplicación CRM de un taller mecánico. 
-
-`Python` `HTML` `Others` 
-
----
-
 ### 🚗 [Concesionario](https://github.com/OscarRenilla/ProyectoFinal_3-Eval_Programacion-LM)
+
 > Gestión de concesionario — Proyecto final de evaluación con CRUD completo y base de datos SQL.
 
 `HTML` `CSS` `JavaScript` `Java` `Spring Boot` `SQL`
@@ -123,32 +124,34 @@
 ---
 
 ### 🌐 [Mi Portfolio](https://github.com/OscarRenilla/MiPortfolio) · [🔗 Ver en vivo](https://oscar-renilla-portfolio.vercel.app/)
+
 > Portfolio web personal con modo oscuro, filtrado dinámico de proyectos y diseño responsive.
 
 `HTML` `CSS` `JavaScript`
 
 ---
 
-## 📚 Formación
+## 📚 `> cat /var/log/formacion.log`
 
-| Titulación | Centro | Período |
-|---|---|---|
-| 🎓 **2º DAM** — Desarrollo de Aplicaciones Multiplataforma | FP | 2026 – Actualidad |
-| 🔐 **Máster en Ciberseguridad** | Prometeo by The Power | 2026 – Actualidad |
-| 🎓 **1º DAM** — Desarrollo de Aplicaciones Multiplataforma | FP | 2025 – 2026 |
+| Titulación                                                 | Centro                | Período           |
+| ---------------------------------------------------------- | --------------------- | ----------------- |
+| 🎓 **2º DAM** — Desarrollo de Aplicaciones Multiplataforma | FP                    | 2026 – Actualidad |
+| 🔐 **Máster en Ciberseguridad**                            | Prometeo by The Power | 2026 – Actualidad |
+| 🎓 **1º DAM** — Desarrollo de Aplicaciones Multiplataforma | FP                    | 2025 – 2026       |
 
 ### 📘 Proyectos del Máster en Ciberseguridad
-| Proyecto | Tecnologías |
-|---|---|
-| [Proyecto-1-HTML-CSS](https://github.com/OscarRenilla/Proyecto-1-HTML-CSS) | HTML · CSS |
-| [proyecto2-katas-javascript](https://github.com/OscarRenilla/proyecto2-katas-javascript) | JavaScript |
-| [proyecto3-KatasPython](https://github.com/OscarRenilla/proyecto3-KatasPython) | Python |
-| [proyecto4-SQL](https://github.com/OscarRenilla/proyecto4-SQL) | SQL |
-| [proyecto5-noSQL](https://github.com/OscarRenilla/proyecto5-noSQL) | JavaScript · MongoDB |
+
+| Proyecto                                                                                 | Tecnologías          |
+| ---------------------------------------------------------------------------------------- | -------------------- |
+| [Proyecto-1-HTML-CSS](https://github.com/OscarRenilla/Proyecto-1-HTML-CSS)               | HTML · CSS           |
+| [proyecto2-katas-javascript](https://github.com/OscarRenilla/proyecto2-katas-javascript) | JavaScript           |
+| [proyecto3-KatasPython](https://github.com/OscarRenilla/proyecto3-KatasPython)           | Python               |
+| [proyecto4-SQL](https://github.com/OscarRenilla/proyecto4-SQL)                           | SQL                  |
+| [proyecto5-noSQL](https://github.com/OscarRenilla/proyecto5-noSQL)                       | JavaScript · MongoDB |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 `> system_monitor --stats`
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OscarRenilla&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
@@ -164,4 +167,3 @@
 <p align="center">
   <i>✉️ ¿Tienes algún proyecto en mente o quieres colaborar? ¡Escríbeme!</i>
 </p>
-
