@@ -125,7 +125,7 @@
 ### 🛠️ [AutoTaller](https://github.com/OscarRenilla/crm-Taller.git)
 > Proyecto aplicación CRM de un taller mecánico. 
 
-`Python` `HTML` `Others` 
+`Python` `Django` `SQLite` `HTML` `CSS` 
 
 ---
 
