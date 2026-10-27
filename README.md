@@ -186,6 +186,9 @@
     
   <img src="https://hits.sh/github.com/OscarRenilla/OscarRenilla.svg?label=Visitas%20al%20perfil&color=1300E3&labelColor=0D1117" alt="Contador de Visitas"/>
   <img src="https://img.shields.io/badge/Estado-Abierto_a_Prácticas-00FF00?style=flat&labelColor=0D1117&color=1300E3" alt="Estado: Abierto a Prácticas"/>
-    
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1300E3,100:003300&height=120&section=footer" width="100%"/>
+</div>
 </p>
 </p>
