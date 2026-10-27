@@ -109,6 +109,7 @@
 
 ### 🎙️ [Interfaces multimodales ERP](https://github.com/OscarRenilla/Interfaces-de-Usuario.git)
 > Interfaces de usuario — Interfaz web de gestión controlada por voz, movimiento y mano. Realidad aumentada 2D y un componente web propio (`<erp-insignia>`) con pruebas unitarias.
+> [🔗 Ver en vivo](https://interfaces-de-usuario-completo.netlify.app/)
 
 `HTML` `CSS` `JavaScript` `API REST` `Others`
 
@@ -123,7 +124,8 @@
 ---
 
 ### 🛠️ [AutoTaller](https://github.com/OscarRenilla/crm-Taller.git)
-> Proyecto aplicación CRM de un taller mecánico. 
+> Proyecto aplicación CRM de un taller mecánico.
+> [🔗 Ver en vivo](https://autotaller-zeu6.onrender.com/)
 
 `Python` `Django` `SQLite` `HTML` `CSS` 
 
@@ -131,7 +133,8 @@
 
 ### 🚗 [Concesionario](https://github.com/OscarRenilla/ProyectoFinal_3-Eval_Programacion-LM)
 
-> Gestión de concesionario — Proyecto final de evaluación con CRUD completo y base de datos SQL.
+> Gestión de concesionario — Proyecto final de evaluación con CRUD completo y base de datos SQL. 
+> [🔗 Ver en vivo](https://concesionario-two.vercel.app/)
 
 `HTML` `CSS` `JavaScript` `Java` `Spring Boot` `SQL`
 
@@ -157,7 +160,7 @@
 
 | Proyecto                                                                                 | Tecnologías          |
 | ---------------------------------------------------------------------------------------- | -------------------- |
-| [Proyecto-1-HTML-CSS](https://github.com/OscarRenilla/Proyecto-1-HTML-CSS)               | HTML · CSS           |
+| [Proyecto-1-HTML-CSS](https://github.com/OscarRenilla/Proyecto-1-HTML-CSS) [🔗 Ver en vivo](https://proyecto-1-html-css-delta.vercel.app/) | HTML · CSS           |
 | [proyecto2-katas-javascript](https://github.com/OscarRenilla/proyecto2-katas-javascript) | JavaScript           |
 | [proyecto3-KatasPython](https://github.com/OscarRenilla/proyecto3-KatasPython)           | Python               |
 | [proyecto4-SQL](https://github.com/OscarRenilla/proyecto4-SQL)                           | SQL                  |
