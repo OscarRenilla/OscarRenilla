@@ -107,6 +107,13 @@
 
 ---
 
+### 🎙️ [Interfaces multimodales ERP](https://github.com/OscarRenilla/Interfaces-de-Usuario.git)
+> Interfaces de usuario — Interfaz web de gestión controlada por voz, movimiento y mano. Realidad aumentada 2D y un componente web propio (`<erp-insignia>`) con pruebas unitarias.
+
+`HTML` `CSS` `JavaScript` `API REST` `Others`
+
+---
+
 ### 💬 [WhatsUp](https://github.com/OscarRenilla/WhatsUp)
 
 > Aplicación de mensajería web con backend en Spring Boot.
