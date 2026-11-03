@@ -26,6 +26,7 @@
 
 - 🎓 Estudiante de **2º de DAM** (Desarrollo de Aplicaciones Multiplataforma)
 - 🔐 Cursando el **Máster en Ciberseguridad** en Prometeo by The Power
+- 🤖 Cursando el Máster en AI Engineering en Prometeo by The Power 
 - 📱 Aprendiendo **desarrollo Android nativo** con Kotlin y Unity (C#)
 - ☁️ Familiarizándome con **AWS** (EC2, RDS, S3) y arquitecturas en la nube
 - 🛡️ Apasionado por la **ciberseguridad aplicada**: cifrado, autenticación y privacidad
@@ -54,6 +55,9 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=375BD2"/>
 </p>
 
 ### 🗄️ `./bases_de_datos_y_cloud`
