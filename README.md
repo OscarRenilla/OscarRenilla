@@ -67,9 +67,9 @@
 
 ## 🚀 `> ./ejecutar_proyectosDestacados.sh`
 
-### 🛡️ Zero-Vault _(TFG — En desarrollo)_
+### 🛡️ Zero-Vault _(TFG - En desarrollo)_
 
-> Gestor de contraseñas multiplataforma con arquitectura **Zero-Knowledge** — El servidor nunca puede descifrar tus datos.
+> Gestor de contraseñas multiplataforma con arquitectura **Zero-Knowledge** - El servidor nunca puede descifrar tus datos.
 
 - **App Android** (Kotlin) con desbloqueo **biométrico** y cifrado **AES-256-GCM**
 - **Backend** con Spring Boot + JWT · **PostgreSQL** en **AWS RDS**
@@ -80,7 +80,7 @@
 
 ---
 
-### 🎮 Endless Runner 2D _(PMDM + DI — En desarrollo)_
+### 🎮 Endless Runner 2D _(PMDM + DI - En desarrollo)_
 
 > Videojuego tipo Subway Surfers desarrollado en **Unity** para Android.
 
@@ -93,7 +93,7 @@
 
 ### 🕐 [Cronoss](https://github.com/OscarRenilla/Proyecto_Intermodular_DAM1)
 
-> Proyecto intermodular de 1º DAM — Aplicación web full-stack de Galería de relojes de lujo.
+> Proyecto intermodular de 1º DAM - Aplicación web full-stack de Galería de relojes de lujo.
 
 `HTML` `CSS` `JavaScript` `Java` `Spring Boot` `SQL` `JUnit`
 
@@ -101,17 +101,24 @@
 
 ### ☕ [ProyectFail](https://github.com/OscarRenilla/ProyectFail.git)
 
-> Proyecto de 1º DAM — Corrección y optimización de código.
+> Proyecto de 1º DAM - Corrección y optimización de código.
 
 `Java`
 
 ---
 
 ### 🎙️ [Interfaces multimodales ERP](https://github.com/OscarRenilla/Interfaces-de-Usuario.git)
-> Interfaces de usuario — Interfaz web de gestión controlada por voz, movimiento y mano. Realidad aumentada 2D y un componente web propio (`<erp-insignia>`) con pruebas unitarias.
+> Interfaces de usuario - Interfaz web de gestión controlada por voz, movimiento y mano. Realidad aumentada 2D y un componente web propio (`<erp-insignia>`) con pruebas unitarias.
 > [🔗 Ver en vivo](https://interfaces-de-usuario-completo.netlify.app/)
 
 `HTML` `CSS` `JavaScript` `API REST` `Others`
+
+---
+
+### ⚽ [Futbol Aula - App Android](https://github.com/OscarRenilla/Futbol-Aula-aplicacion-Android-Kotlin.git)
+> Programación multimedia y dispositivos móviles - App Android en Kotlin para gestionar un catálogo de futbolistas, con búsqueda y filtros, favoritos y notas, cuestionario, alineaciones, copia de seguridad en JSON, catálogo sin conexión, sensores, audio, imagen y Bluetooth.
+
+`Kotlin` `Android` `SQLite` `JUnit` `Others`
 
 ---
 
@@ -133,7 +140,7 @@
 
 ### 🚗 [Concesionario](https://github.com/OscarRenilla/ProyectoFinal_3-Eval_Programacion-LM)
 
-> Gestión de concesionario — Proyecto final de evaluación con CRUD completo y base de datos SQL. 
+> Gestión de concesionario - Proyecto final de evaluación con CRUD completo y base de datos SQL. 
 > [🔗 Ver en vivo](https://concesionario-two.vercel.app/)
 
 `HTML` `CSS` `JavaScript` `Java` `Spring Boot` `SQL`
@@ -152,9 +159,9 @@
 
 | Titulación                                                 | Centro                | Período           |
 | ---------------------------------------------------------- | --------------------- | ----------------- |
-| 🎓 **2º DAM** — Desarrollo de Aplicaciones Multiplataforma | FP                    | 2026 – Actualidad |
+| 🎓 **2º DAM** - Desarrollo de Aplicaciones Multiplataforma | FP                    | 2026 – Actualidad |
 | 🔐 **Máster en Ciberseguridad**                            | Prometeo by The Power | 2026 – Actualidad |
-| 🎓 **1º DAM** — Desarrollo de Aplicaciones Multiplataforma | FP                    | 2025 – 2026       |
+| 🎓 **1º DAM** - Desarrollo de Aplicaciones Multiplataforma | FP                    | 2025 – 2026       |
 
 ### 📘 Proyectos del Máster en Ciberseguridad
 
