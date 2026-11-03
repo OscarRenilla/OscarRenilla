@@ -102,69 +102,56 @@
 
 `Kali Linux` `Wazuh` `Docker` `GitHub Actions` `OWASP ZAP` `VirtualBox` `Python` `Bash`
 
----
-
-### 🕐 [Cronoss](https://github.com/OscarRenilla/Proyecto_Intermodular_DAM1)
-
-> Proyecto intermodular de 1º DAM - Aplicación web full-stack de Galería de relojes de lujo.
-
-`HTML` `CSS` `JavaScript` `Java` `Spring Boot` `SQL` `JUnit`
-
----
-
-### ☕ [ProyectFail](https://github.com/OscarRenilla/ProyectFail.git)
-
-> Proyecto de 1º DAM - Corrección y optimización de código.
-
-`Java`
-
----
-
-### 🎙️ [Interfaces multimodales ERP](https://github.com/OscarRenilla/Interfaces-de-Usuario.git)
-> Interfaces de usuario - Interfaz web de gestión controlada por voz, movimiento y mano. Realidad aumentada 2D y un componente web propio (`<erp-insignia>`) con pruebas unitarias.
-> [🔗 Ver en vivo](https://interfaces-de-usuario-completo.netlify.app/)
-
-`HTML` `CSS` `JavaScript` `API REST` `Others`
-
----
-
-### ⚽ [Futbol Aula - App Android](https://github.com/OscarRenilla/Futbol-Aula-aplicacion-Android-Kotlin.git)
-> Programación multimedia y dispositivos móviles - App Android en Kotlin para gestionar un catálogo de futbolistas, con búsqueda y filtros, favoritos y notas, cuestionario, alineaciones, copia de seguridad en JSON, catálogo sin conexión, sensores, audio, imagen y Bluetooth.
-
-`Kotlin` `Android` `SQLite` `JUnit` `Others`
-
----
-
-### 💬 [WhatsUp](https://github.com/OscarRenilla/WhatsUp)
-
-> Aplicación de mensajería web con backend en Spring Boot.
-
-`HTML` `CSS` `JavaScript` `Java` `Spring Boot`
-
----
-
-### 🛠️ [AutoTaller](https://github.com/OscarRenilla/crm-Taller.git)
-> Proyecto aplicación CRM de un taller mecánico.
-> [🔗 Ver en vivo](https://autotaller-zeu6.onrender.com/)
-
-`Python` `Django` `SQLite` `HTML` `CSS` 
-
----
-
-### 🚗 [Concesionario](https://github.com/OscarRenilla/ProyectoFinal_3-Eval_Programacion-LM)
-
-> Gestión de concesionario - Proyecto final de evaluación con CRUD completo y base de datos SQL. 
-> [🔗 Ver en vivo](https://concesionario-two.vercel.app/)
-
-`HTML` `CSS` `JavaScript` `Java` `Spring Boot` `SQL`
-
----
-
-### 🌐 [Mi Portfolio](https://github.com/OscarRenilla/MiPortfolio) · [🔗 Ver en vivo](https://oscar-renilla-portfolio.vercel.app/)
-
-> Portfolio web personal con modo oscuro, filtrado dinámico de proyectos y diseño responsive.
-
-`HTML` `CSS` `JavaScript`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕐 <a href="https://github.com/OscarRenilla/Proyecto_Intermodular_DAM1">Cronoss</a></h3>
+      <blockquote>Proyecto intermodular de 1º DAM - Aplicación web full-stack de Galería de relojes de lujo.</blockquote>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Java</code> <code>Spring Boot</code> <code>SQL</code> <code>JUnit</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☕ <a href="https://github.com/OscarRenilla/ProyectFail.git">ProyectFail</a></h3>
+      <blockquote>Proyecto de 1º DAM - Corrección y optimización de código.</blockquote>
+      <code>Java</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎙️ <a href="https://github.com/OscarRenilla/Interfaces-de-Usuario.git">Interfaces multimodales ERP</a></h3>
+      <blockquote>Interfaces de usuario - Interfaz web de gestión controlada por voz, movimiento y mano. Realidad aumentada 2D y un componente web propio (<code>&lt;erp-insignia&gt;</code>) con pruebas unitarias.<br><br>🔗 <a href="https://interfaces-de-usuario-completo.netlify.app/">Ver en vivo</a></blockquote>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>API REST</code> <code>Others</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚽ <a href="https://github.com/OscarRenilla/Futbol-Aula-aplicacion-Android-Kotlin.git">Futbol Aula - App Android</a></h3>
+      <blockquote>Programación multimedia y dispositivos móviles - App Android en Kotlin para gestionar un catálogo de futbolistas, con búsqueda y filtros, favoritos y notas, cuestionario, alineaciones, copia de seguridad en JSON, catálogo sin conexión, sensores, audio, imagen y Bluetooth.</blockquote>
+      <code>Kotlin</code> <code>Android</code> <code>SQLite</code> <code>JUnit</code> <code>Others</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 <a href="https://github.com/OscarRenilla/WhatsUp">WhatsUp</a></h3>
+      <blockquote>Aplicación de mensajería web con backend en Spring Boot.</blockquote>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Java</code> <code>Spring Boot</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ <a href="https://github.com/OscarRenilla/crm-Taller.git">AutoTaller</a></h3>
+      <blockquote>Proyecto aplicación CRM de un taller mecánico.<br><br>🔗 <a href="https://autotaller-zeu6.onrender.com/">Ver en vivo</a></blockquote>
+      <code>Python</code> <code>Django</code> <code>SQLite</code> <code>HTML</code> <code>CSS</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 <a href="https://github.com/OscarRenilla/ProyectoFinal_3-Eval_Programacion-LM">Concesionario</a></h3>
+      <blockquote>Gestión de concesionario - Proyecto final de evaluación con CRUD completo y base de datos SQL.<br><br>🔗 <a href="https://concesionario-two.vercel.app/">Ver en vivo</a></blockquote>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Java</code> <code>Spring Boot</code> <code>SQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/OscarRenilla/MiPortfolio">Mi Portfolio</a></h3>
+      <blockquote>Portfolio web personal con modo oscuro, filtrado dinámico de proyectos y diseño responsive.<br><br>🔗 <a href="https://oscar-renilla-portfolio.vercel.app/">Ver en vivo</a></blockquote>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -172,9 +159,9 @@
 
 | Titulación                                                 | Centro                | Período           |
 | ---------------------------------------------------------- | --------------------- | ----------------- |
-| 🎓 **2º DAM** - Desarrollo de Aplicaciones Multiplataforma | FP                    | 2026 – Actualidad |
+| 🎓 **2º DAM** - Desarrollo de Aplicaciones Multiplataforma | FP - Prometeo by The Power | 2026 – Actualidad |
 | 🔐 **Máster en Ciberseguridad**                            | Prometeo by The Power | 2026 – Actualidad |
-| 🎓 **1º DAM** - Desarrollo de Aplicaciones Multiplataforma | FP                    | 2025 – 2026       |
+| 🎓 **1º DAM** - Desarrollo de Aplicaciones Multiplataforma | FP - Prometeo by The Power | 2025 – 2026       |
 
 ### 📘 Proyectos del Máster en Ciberseguridad
 
