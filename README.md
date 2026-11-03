@@ -110,7 +110,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🕐 <a href="https://github.com/OscarRenilla/Proyecto_Intermodular_DAM1">Cronoss</a></h3>
-      <blockquote>Proyecto intermodular de 1º DAM - Aplicación web full-stack de Galería de relojes de lujo.</blockquote>
+      <blockquote>Proyecto intermodular de 1º DAM - Aplicación web full-stack de Galería de relojes de lujo.<br><br>🔗 <a href="https://cronoss-proyectointermodulardam1-fr.vercel.app/">Ver en vivo</a></blockquote>
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Java</code> <code>Spring Boot</code> <code>SQL</code> <code>JUnit</code>
     </td>
     <td width="50%" valign="top">
