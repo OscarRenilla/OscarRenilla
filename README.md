@@ -26,10 +26,12 @@
 
 - 🎓 Estudiante de **2º de DAM** (Desarrollo de Aplicaciones Multiplataforma)
 - 🔐 Cursando el **Máster en Ciberseguridad** en Prometeo by The Power
-- 🤖 Cursando el Máster en AI Engineering en Prometeo by The Power 
-- 📱 Aprendiendo **desarrollo Android nativo** con Kotlin y Unity (C#)
-- ☁️ Familiarizándome con **AWS** (EC2, RDS, S3) y arquitecturas en la nube
-- 🛡️ Apasionado por la **ciberseguridad aplicada**: cifrado, autenticación y privacidad
+- 🤖 Cursando el **Máster en AI Engineering** en Prometeo by The Power 
+- ☕ **Backend & Acceso a Datos**: Diseño de APIs REST con **Spring Boot**, **Spring Data JPA** y persistencia en **PostgreSQL**
+- 🐳 **Cloud & DevOps**: Contenerización de servicios con **Docker** y **Docker Compose** (networking, volúmenes persistentes y bind mounts)
+- 📱 Desarrollando apps **Android nativas** con Kotlin y videojuegos en **Unity** (C#)
+- ☁️ Familiarizándome con **AWS** (EC2, RDS, S3) y arquitecturas seguras en la nube
+- 🛡️ Apasionado por la **ciberseguridad aplicada**: criptografía, autenticación y privacidad
 - 🚀 Actualmente desarrollando mi TFG: **Zero-Vault**, un gestor de contraseñas Zero-Knowledge
 
 ---
@@ -43,6 +45,7 @@
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=239120"/>
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 </p>
@@ -50,18 +53,22 @@
 ### 🛠️ `./frameworks_y_herramientas`
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-000000?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
   <img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=3DDC84"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
   <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688"/>
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=375BD2"/>
 </p>
 
-### 🗄️ `./bases_de_datos_y_cloud`
+### ☁️ `./cloud_devops_y_bases_de_datos`
 <p>
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Docker_Compose-000000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
@@ -75,12 +82,13 @@
 
 > Gestor de contraseñas multiplataforma con arquitectura **Zero-Knowledge** - El servidor nunca puede descifrar tus datos.
 
-- **App Android** (Kotlin) con desbloqueo **biométrico** y cifrado **AES-256-GCM**
-- **Backend** con Spring Boot + JWT · **PostgreSQL** en **AWS RDS**
+- **App Android** (Kotlin) con desbloqueo **biométrico** y cifrado local **AES-256-GCM**
+- **Backend & Persistencia**: API REST en Spring Boot + JWT con **Spring Data JPA** y **PostgreSQL**
+- **Infraestructura**: Entornos contenerizados con **Docker** (volúmenes persistentes y redes aisladas) y despliegue en **AWS RDS**
 - Integración con **Have I Been Pwned** (k-Anonymity) para detectar contraseñas filtradas
 - Auditor de salud de contraseñas · Limpieza automática del portapapeles
 
-`Kotlin` `Java` `Spring Boot` `PostgreSQL` `AWS` `AES-256` `JWT`
+`Kotlin` `Java` `Spring Boot` `Spring Data JPA` `Docker` `PostgreSQL` `AWS` `AES-256` `JWT`
 
 ---
 
