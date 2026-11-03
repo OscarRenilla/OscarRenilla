@@ -172,6 +172,7 @@
 | [proyecto3-KatasPython](https://github.com/OscarRenilla/proyecto3-KatasPython)           | Python               |
 | [proyecto4-SQL](https://github.com/OscarRenilla/proyecto4-SQL)                           | SQL                  |
 | [proyecto5-noSQL](https://github.com/OscarRenilla/proyecto5-noSQL)                       | JavaScript · MongoDB |
+| TFG-Laboratorio-Integral-Ciberseguridad *(En desarrollo)*                                | Kali Linux · Wazuh · Docker · DevSecOps · VirtualBox |
 
 ---
 
