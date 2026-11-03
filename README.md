@@ -91,6 +91,19 @@
 
 ---
 
+### 🧪 Laboratorio Integral de Ciberseguridad _(TFG - En desarrollo)_ 
+
+> Entorno virtualizado de laboratorio para evaluación práctica de seguridad ofensiva, DevSecOps, hardened cloud/web y SOC/IR.
+
+- Pentesting completo: Metodología OSSTMM/PTES sobre Kali Linux y máquinas objetivo en entorno de red aislado
+- Pipeline DevSecOps: Integración CI/CD con SAST (Semgrep), DAST (OWASP ZAP), SCA y análisis de secretos
+- SOC & Incident Response: Despliegue de Wazuh SIEM, reglas de detección personalizadas y playbooks de respuesta
+- Gobierno & Privacidad: Modelado de amenazas STRIDE, análisis de riesgos y Plan de Continuidad de Negocio (PCN)
+
+`Kali Linux` `Wazuh` `Docker` `GitHub Actions` `OWASP ZAP` `VirtualBox` `Python` `Bash`
+
+---
+
 ### 🕐 [Cronoss](https://github.com/OscarRenilla/Proyecto_Intermodular_DAM1)
 
 > Proyecto intermodular de 1º DAM - Aplicación web full-stack de Galería de relojes de lujo.
