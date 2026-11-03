@@ -172,7 +172,7 @@
 | [proyecto3-KatasPython](https://github.com/OscarRenilla/proyecto3-KatasPython)           | Python               |
 | [proyecto4-SQL](https://github.com/OscarRenilla/proyecto4-SQL)                           | SQL                  |
 | [proyecto5-noSQL](https://github.com/OscarRenilla/proyecto5-noSQL)                       | JavaScript · MongoDB |
-| TFG-Laboratorio-Integral-Ciberseguridad *(En desarrollo)*                                | Kali Linux · Wazuh · Docker · DevSecOps · VirtualBox |
+| TFG - Laboratorio Integral Ciberseguridad *(En desarrollo)*                              | Kali Linux · Wazuh · Docker · DevSecOps · VirtualBox |
 
 ---
 
@@ -192,7 +192,7 @@
 ---
 
 <p align="center">
-  <i>✉️ ¿Tienes algún proyecto en mente o quieres colaborar? ¡Escríbeme!</i>
+  <i>✉️ ¿Alguna idea interesante...? ¡Escríbeme!</i>
   <p align="center">
     
   <img src="https://hits.sh/github.com/OscarRenilla/OscarRenilla.svg?label=Visitas%20al%20perfil&color=1300E3&labelColor=0D1117" alt="Contador de Visitas"/>
