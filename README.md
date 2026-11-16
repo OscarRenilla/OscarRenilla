@@ -130,7 +130,7 @@
     <td>
     <h3>🏫 <a href="https://github.com/OscarRenilla/CampusHub.git">CampusHub</a></h3>
       <blockquote>API REST para gestión universitaria con persistencia híbrida/políglota: modelo relacional en PostgreSQL (Spring Data JPA) para entidades académicas y MongoDB para seguimiento dinámico de actividades. Entorno contenerizado con Docker Compose.</blockquote>
-      <code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>MongoDB</code> <code>Docker</code> <code>REST API</code>
+      <code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>MongoDB</code> <code>Docker</code> <code>API REST</code>
     </td>
     <td>
     <h3>⚽ <a href="https://github.com/OscarRenilla/Futbol-Aula-aplicacion-Android-Kotlin.git">Futbol Aula - App Android</a></h3>
