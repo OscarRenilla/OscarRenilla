@@ -128,7 +128,7 @@
   </tr>
   <tr>
     <td>
-    <h3>🏫 <a href="https://github.com/OscarRenilla/CampusHub.git">CampusHub</a></h3>
+    <h3>🏫 <a href="https://github.com/OscarRenilla/CampusHub.git">CampusHub</a></h3> 
       <blockquote>API REST para gestión universitaria con persistencia híbrida/políglota: modelo relacional en PostgreSQL (Spring Data JPA) para entidades académicas y MongoDB para seguimiento dinámico de actividades. Entorno contenerizado con Docker Compose.</blockquote>
       <code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>MongoDB</code> <code>Docker</code> <code>API REST</code>
     </td>
@@ -145,10 +145,10 @@
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>API REST</code> <code>Others</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🛠️ <a href="https://github.com/OscarRenilla/crm-Taller.git">AutoTaller</a></h3>
-      <blockquote>Proyecto aplicación CRM de un taller mecánico.<br><br>🔗 <a href="https://autotaller-zeu6.onrender.com/">Ver en vivo</a></blockquote>
-      <code>Python</code> <code>Django</code> <code>SQLite</code> <code>HTML</code> <code>CSS</code>
-    </td>
+      <h3>🐳 <a href="https://github.com/OscarRenilla/gestor-incidencias.git">Gestor de Incidencias</a></h3>
+      <blockquote>Despliegue multicontenedor de una aplicación de gestión de incidencias con arquitectura segmentada en redes, volúmenes persistentes y variables de entorno.</blockquote>
+      <code>Docker</code> <code>Docker Compose</code> <code>PostgreSQL</code> <code>Nginx</code> <code>YAML</code>
+    </td>    
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -157,20 +157,23 @@
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Java</code> <code>Spring Boot</code>
     </td>
     <td width="50%" valign="top">
+      <h3>🛠️ <a href="https://github.com/OscarRenilla/crm-Taller.git">AutoTaller</a></h3>
+      <blockquote>Proyecto aplicación CRM de un taller mecánico.<br><br>🔗 <a href="https://autotaller-zeu6.onrender.com/">Ver en vivo</a></blockquote>
+      <code>Python</code> <code>Django</code> <code>SQLite</code> <code>HTML</code> <code>CSS</code>
+    </td>
+  </tr>
+  <tr>
+  <td width="50%" valign="top">
       <h3>🚗 <a href="https://github.com/OscarRenilla/ProyectoFinal_3-Eval_Programacion-LM">Concesionario</a></h3>
       <blockquote>Gestión de concesionario - Proyecto final de evaluación con CRUD completo y base de datos SQL.<br><br>🔗 <a href="https://concesionario-two.vercel.app/">Ver en vivo</a></blockquote>
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Java</code> <code>Spring Boot</code> <code>SQL</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/OscarRenilla/MiPortfolio">Mi Portfolio</a></h3>
       <blockquote>Portfolio web personal con modo oscuro, filtrado dinámico de proyectos y diseño responsive.<br><br>🔗 <a href="https://oscar-renilla-portfolio.vercel.app/">Ver en vivo</a></blockquote>
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
     </td>
-    <td width="50%" valign="top">
-      <!-- Añadir proyectos cuando se pueda... -->
-    </td>
+    
   </tr>
 </table>
 
@@ -224,4 +227,3 @@
 </div>
 </p>
 </p>
- 
