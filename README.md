@@ -127,22 +127,22 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://github.com/OscarRenilla/Interfaces-de-Usuario.git">Interfaces multimodales ERP</a></h3>
-      <blockquote>Interfaces de usuario - Interfaz web de gestión controlada por voz, movimiento y mano. Realidad aumentada 2D y un componente web propio (<code>&lt;erp-insignia&gt;</code>) con pruebas unitarias.<br><br>🔗 <a href="https://interfaces-de-usuario-completo.netlify.app/">Ver en vivo</a></blockquote>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>API REST</code> <code>Others</code>
+    <td>
+    <h3>🏫 <a href="https://github.com/OscarRenilla/CampusHub.git">CampusHub</a></h3>
+      <blockquote>Acceso a Datos (2º DAM) - API REST para gestión universitaria con persistencia híbrida/políglota: modelo relacional en PostgreSQL (Spring Data JPA) para entidades académicas y MongoDB para seguimiento dinámico de actividades. Entorno contenerizado con Docker Compose.</blockquote>
+      <code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>MongoDB</code> <code>Docker</code> <code>REST API</code>
     </td>
-    <td width="50%" valign="top">
-      <h3>⚽ <a href="https://github.com/OscarRenilla/Futbol-Aula-aplicacion-Android-Kotlin.git">Futbol Aula - App Android</a></h3>
+    <td>
+    <h3>⚽ <a href="https://github.com/OscarRenilla/Futbol-Aula-aplicacion-Android-Kotlin.git">Futbol Aula - App Android</a></h3>
       <blockquote>Programación multimedia y dispositivos móviles - App Android en Kotlin para gestionar un catálogo de futbolistas, con búsqueda y filtros, favoritos y notas, cuestionario, alineaciones, copia de seguridad en JSON, catálogo sin conexión, sensores, audio, imagen y Bluetooth.</blockquote>
       <code>Kotlin</code> <code>Android</code> <code>SQLite</code> <code>JUnit</code> <code>Others</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💬 <a href="https://github.com/OscarRenilla/WhatsUp">WhatsUp</a></h3>
-      <blockquote>Aplicación de mensajería web con backend en Spring Boot.</blockquote>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Java</code> <code>Spring Boot</code>
+      <h3>🎙️ <a href="https://github.com/OscarRenilla/Interfaces-de-Usuario.git">Interfaces multimodales ERP</a></h3>
+      <blockquote>Interfaces de usuario - Interfaz web de gestión controlada por voz, movimiento y mano. Realidad aumentada 2D y un componente web propio (<code>&lt;erp-insignia&gt;</code>) con pruebas unitarias.<br><br>🔗 <a href="https://interfaces-de-usuario-completo.netlify.app/">Ver en vivo</a></blockquote>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>API REST</code> <code>Others</code>
     </td>
     <td width="50%" valign="top">
       <h3>🛠️ <a href="https://github.com/OscarRenilla/crm-Taller.git">AutoTaller</a></h3>
@@ -152,14 +152,24 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>💬 <a href="https://github.com/OscarRenilla/WhatsUp">WhatsUp</a></h3>
+      <blockquote>Aplicación de mensajería web con backend en Spring Boot.</blockquote>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Java</code> <code>Spring Boot</code>
+    </td>
+    <td width="50%" valign="top">
       <h3>🚗 <a href="https://github.com/OscarRenilla/ProyectoFinal_3-Eval_Programacion-LM">Concesionario</a></h3>
       <blockquote>Gestión de concesionario - Proyecto final de evaluación con CRUD completo y base de datos SQL.<br><br>🔗 <a href="https://concesionario-two.vercel.app/">Ver en vivo</a></blockquote>
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Java</code> <code>Spring Boot</code> <code>SQL</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/OscarRenilla/MiPortfolio">Mi Portfolio</a></h3>
       <blockquote>Portfolio web personal con modo oscuro, filtrado dinámico de proyectos y diseño responsive.<br><br>🔗 <a href="https://oscar-renilla-portfolio.vercel.app/">Ver en vivo</a></blockquote>
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Añadir proyectos cuando se pueda... -->
     </td>
   </tr>
 </table>
@@ -214,3 +224,4 @@
 </div>
 </p>
 </p>
+ 
